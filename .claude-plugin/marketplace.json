@@ -1,0 +1,14 @@
+{
+  "name": "eu-souwesley",
+  "owner": {
+    "name": "Wesley Costa (@eu.souwesley)"
+  },
+  "description": "Ferramentas de IA gratuitas do @eu.souwesley para o Claude Code.",
+  "plugins": [
+    {
+      "name": "youtube-para-skill",
+      "source": "./",
+      "description": "Transforma qualquer vídeo do YouTube numa skill reutilizável do Claude Code."
+    }
+  ]
+}
